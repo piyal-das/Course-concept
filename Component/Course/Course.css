@@ -1,0 +1,12 @@
+.courseContainer{
+    display: flex;
+    
+}
+.courseReview{
+    background: #c03d3d;
+    width: 28%;
+    padding: 20px;
+    border-radius :15px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
